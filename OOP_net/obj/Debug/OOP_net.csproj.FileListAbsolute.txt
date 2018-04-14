@@ -1,0 +1,22 @@
+D:\HKI_Nam2\Data structeres and Algorithms\Đồ án cuối kì\OOP_net\OOP_net\bin\Debug\OOP_net.exe.config
+C:\Users\user\Documents\Chuyên ngành IT\Lập trình hướng đối tượng (OOP)\OOP_net\OOP_net\bin\Debug\OOP_net.exe.config
+C:\Users\user\Documents\Chuyên ngành IT\Lập trình hướng đối tượng (OOP)\OOP_net\OOP_net\obj\Debug\OOP_net.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Chuyên ngành IT\Lập trình hướng đối tượng (OOP)\OOP_net\OOP_net\bin\Debug\OOP_net.exe
+C:\Users\user\Documents\Chuyên ngành IT\Lập trình hướng đối tượng (OOP)\OOP_net\OOP_net\bin\Debug\OOP_net.pdb
+C:\Users\user\Documents\Chuyên ngành IT\Lập trình hướng đối tượng (OOP)\OOP_net\OOP_net\obj\Debug\OOP_net.exe
+C:\Users\user\Documents\Chuyên ngành IT\Lập trình hướng đối tượng (OOP)\OOP_net\OOP_net\obj\Debug\OOP_net.pdb
+C:\Users\user\Documents\Chuyên ngành IT\Lập trình hướng đối tượng (OOP)\Do an\OPP\OOP_net\OOP_net\bin\Debug\OOP_net.exe.config
+C:\Users\user\Documents\Chuyên ngành IT\Lập trình hướng đối tượng (OOP)\Do an\OPP\OOP_net\OOP_net\obj\Debug\OOP_net.exe
+C:\Users\user\Documents\Chuyên ngành IT\Lập trình hướng đối tượng (OOP)\Do an\OPP\OOP_net\OOP_net\obj\Debug\OOP_net.pdb
+C:\Users\user\Documents\Chuyên ngành IT\Lập trình hướng đối tượng (OOP)\Do an\OPP\OOP_net\OOP_net\bin\Debug\OOP_net.exe
+C:\Users\user\Documents\Chuyên ngành IT\Lập trình hướng đối tượng (OOP)\Do an\OPP\OOP_net\OOP_net\bin\Debug\OOP_net.pdb
+C:\Users\user\Documents\Chuyên ngành IT\Lập trình hướng đối tượng (OOP)\Do an\OPP\OOP_net\OOP_net\obj\Debug\OOP_net.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Chuyên ngành IT\Lập trình hướng đối tượng (OOP)\Do an\NguyenChiTrung_TNThanhNhuY\OOP_net\OOP_net\bin\Debug\OOP_net.exe.config
+C:\Users\user\Documents\Chuyên ngành IT\Lập trình hướng đối tượng (OOP)\Do an\NguyenChiTrung_TNThanhNhuY\OOP_net\OOP_net\obj\Debug\OOP_net.exe
+C:\Users\user\Documents\Chuyên ngành IT\Lập trình hướng đối tượng (OOP)\Do an\NguyenChiTrung_TNThanhNhuY\OOP_net\OOP_net\obj\Debug\OOP_net.pdb
+C:\Users\user\Documents\Chuyên ngành IT\Lập trình hướng đối tượng (OOP)\Do an\NguyenChiTrung_TNThanhNhuY\OOP_net\OOP_net\bin\Debug\OOP_net.exe
+C:\Users\user\Documents\Chuyên ngành IT\Lập trình hướng đối tượng (OOP)\Do an\NguyenChiTrung_TNThanhNhuY\OOP_net\OOP_net\bin\Debug\OOP_net.pdb
+C:\Users\user\Documents\Chuyên ngành IT\Lập trình hướng đối tượng (OOP)\Do an\NguyenChiTrung_TNThanhNhuY\OOP_net\OOP_net\obj\Debug\OOP_net.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Chuyên ngành IT\Lập trình hướng đối tượng (OOP)\Do an\NguyenChiTrung_TNThanhNhuY\Do An\OOP_net\bin\Debug\OOP_net.exe.config
+C:\Users\user\Documents\Chuyên ngành IT\Lập trình hướng đối tượng (OOP)\Do an\NguyenChiTrung_TNThanhNhuY\Do An\OOP_net\obj\Debug\OOP_net.exe
+C:\Users\user\Documents\Chuyên ngành IT\Lập trình hướng đối tượng (OOP)\Do an\NguyenChiTrung_TNThanhNhuY\Do An\OOP_net\obj\Debug\OOP_net.pdb
